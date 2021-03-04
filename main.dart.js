@@ -74050,8 +74050,8 @@ $S:475}
 X.zI.prototype={
 ah:function(){return new X.Ry(new G.i0(u.U+J.aR($.fu)),C.j)}}
 X.Ry.prototype={
-a3c:function(){var s=4281558732,r=H.b([new X.ea("Work",35.8,new P.B(s)),new X.ea("Eat",8.3,new P.B(4288217241)),new X.ea("Commute",10.8,new P.B(4279277080)),new X.ea("TV",15.6,new P.B(4294819353)),new X.ea("Sleep",19.2,new P.B(s)),new X.ea("Other",10.3,new P.B(4292622610))],t.BE)
-this.e.push(F.t5(new X.aj_(),r,new X.aj0(),"Air Pollution",new X.aj1(),new X.aj2(),t.Nt,t.X))},
+a3c:function(){var s=H.b([new X.ea("Work",35.8,new P.B(4281558732)),new X.ea("Eat",8.3,new P.B(4288217241)),new X.ea("Commute",10.8,new P.B(4279277080)),new X.ea("TV",15.6,new P.B(4294819353)),new X.ea("Sleep",19.2,new P.B(4294940928)),new X.ea("Other",10.3,new P.B(4292622610))],t.BE)
+this.e.push(F.t5(new X.aj_(),s,new X.aj0(),"Air Pollution",new X.aj1(),new X.aj2(),t.Nt,t.X))},
 a3b:function(){var s,r=this,q=null,p=t.W,o=H.b([],p),n=H.b([],p),m=H.b([],p),l=H.b([],p),k=H.b([],p)
 for(p=J.av(r.x);p.q();){s=p.gB(p)
 o.push(J.iV(s.z))
